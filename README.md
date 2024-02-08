@@ -36,7 +36,7 @@ all those skills to use and working hard to perfect HTML, CSS and JS.
  <ul>
  <p> 
   - Work remotely in a company, helping on its projects using my design skills <br>
-  - Sharpen, and eventualy perfect my skills, getting better and faster at it
+  - Sharpen, and eventualy perfect my skills, getting better and faster at it <br>
   - Eventually, lead projects
  </p>
  </ul>
