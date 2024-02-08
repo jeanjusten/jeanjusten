@@ -30,3 +30,13 @@ all those skills to use and working hard to perfect HTML, CSS and JS.
     - Clean and well-commented coding <br>
     </p>
 </ul>
+
+<!--Objectives-->
+ **<h2>:large_blue_diamond: Objectives</h2>**
+ <ul>
+ <p> 
+  - Work remotely in a company, helping on its projects using my design skills <br>
+  - Sharpen, and eventualy perfect my skills, getting better and faster at it
+  - Eventually, lead projects
+ </p>
+ </ul>
