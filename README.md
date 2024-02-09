@@ -5,7 +5,7 @@
 
 <!--About me-->
 <h2>:large_blue_diamond: About me</h2>
-Hello, World! Im, <strong>Jean</strong>,32, Brazil.<br>
+Hello, World! Im <strong>Jean</strong>, 32, Brazil.<br>
 Im currently studying HTML, CSS and JavaScript to be a Fullstack developer.
 In my previous area of work (Architecture) i was in touch with 3d modeling,
 design and image rendering. It wasn't untill 2023 that i discovered a passion in
@@ -40,3 +40,7 @@ all those skills to use and working hard to perfect HTML, CSS and JS.
   - Eventually, lead projects
  </p>
  </ul>
+
+<!--Stats-->
+ **<h2>:large_blue_diamond: GitHub Stats</h2>**
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjusten"/>
