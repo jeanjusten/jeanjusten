@@ -6,7 +6,8 @@
 <!--About me-->
 <h2>:large_blue_diamond: About me</h2>
 Hello, World! Im <strong>Jean</strong>, 32, Brazil.<br>
-Im currently studying HTML, CSS and JavaScript to be a Fullstack developer.
+Im currently studying HTML, CSS and JavaScript to be a Fullstack developer.<br>
+<br>
 In my previous area of work (Architecture) i was in touch with 3d modeling,
 design and image rendering. It wasn't untill 2023 that i discovered a passion in
 coding due to a personal side project in Game Maker Studio 2. Since then, i've been puting
