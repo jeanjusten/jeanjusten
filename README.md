@@ -18,31 +18,6 @@ all those skills to use and working hard to perfect HTML, CSS and JS.
 **<h2>:large_blue_diamond: Skills and Tools</h2>**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
 
-
-<!--Soft-Skills-->
- **<h2>:large_blue_diamond: Soft-Skills</h2>**
-<ul>
-  <p>
-    - Good at problem solving <br>
-    - Creative <br>
-    - Centered and focused<br>
-    - Proactive <br>
-    - Fast learner <br>
-    - Great Teamwork <br>
-    - Clean and well-commented coding <br>
-    </p>
-</ul>
-
-<!--Objectives-->
- **<h2>:large_blue_diamond: Objectives</h2>**
- <ul>
- <p> 
-  - Work remotely in a company, helping on its projects using my design skills <br>
-  - Sharpen, and eventualy perfect my skills, getting better and faster at it <br>
-  - Eventually, lead projects
- </p>
- </ul>
-
 <!--Stats-->
  **<h2>:large_blue_diamond: GitHub Stats</h2>**
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjusten"/>
