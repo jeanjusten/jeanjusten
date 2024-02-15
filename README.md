@@ -15,7 +15,7 @@ all those skills to use and working hard to perfect HTML, CSS and JS.
 <br>
 
 <!--Skills and Tools-->
-**<h2>:large_blue_diamond: Skills and Tools i Use</h2>**
+**<h2>:large_blue_diamond: Skills and Tools i use</h2>**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
 
 <!--Stats-->
