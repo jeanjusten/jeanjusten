@@ -28,6 +28,7 @@ all those skills to use and working hard to perfect HTML, CSS and JS.
     - Centered and focused<br>
     - Proactive <br>
     - Fast learner <br>
+    - Great Teamwork <br>
     - Clean and well-commented coding <br>
     </p>
 </ul>
