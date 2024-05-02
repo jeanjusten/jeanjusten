@@ -11,7 +11,7 @@ Im currently studying to be a Fullstack developer.<br>
 In my previous area of work (Architecture) i was in touch with 3d modeling,
 design and image rendering. It wasn't untill 2023 that i discovered a passion in
 coding due to a personal side project in Game Maker Studio 2. Since then, i've been puting
-all those skills to use and working hard in my journey to be a fullstack developer.
+all those skills to use and working hard in my journey to become a programmer.
 <br>
 
 <!--Skills and Tools-->
