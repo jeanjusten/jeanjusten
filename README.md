@@ -20,4 +20,4 @@ all those skills to use and working hard in my journey to become a programmer.
 
 <!--Stats-->
  **<h2>:large_blue_diamond: GitHub Stats</h2>**
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjusten"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjusten&theme=dracula"/>
