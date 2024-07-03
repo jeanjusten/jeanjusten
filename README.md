@@ -15,8 +15,18 @@ all those skills to use and working hard in my journey to become a programmer.
 <br>
 
 <!--Skills and Tools-->
-**<h2>:large_blue_diamond: Skills and Tools i use</h2>**
+**<h2>:large_blue_diamond: Hard-Skills and Stacks</h2>**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,jquery&perline=4)](https://skillicons.dev)
+
+
+**<h2>:large_blue_diamond: Soft-Skills</h2>**
+
+- Adaptability
+- Quick learner
+- Resilient
+- Good at Teamwork
+- Communicative
+
 
 <!--Stats-->
  **<h2>:large_blue_diamond: GitHub Stats</h2>**
