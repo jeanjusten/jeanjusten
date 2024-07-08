@@ -16,7 +16,7 @@ all those skills to use and working hard in my journey to become a programmer.
 
 <!--Skills and Tools-->
 **<h2>:large_blue_diamond: Hard-Skills and Stacks</h2>**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,jquery&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,jquery,bootstrap,git,github&perline=4)](https://skillicons.dev)
 
 
 **<h2>:large_blue_diamond: Soft-Skills</h2>**
