@@ -5,7 +5,7 @@
 
 <!--About me-->
 <h2>:large_blue_diamond: About me</h2>
-Hello, World! Im <strong>Jean</strong>, 32, Brazil 🇧🇷.<br>
+Hello, World! Im <strong>Jean</strong>, 33, Brazil 🇧🇷.<br>
 Im currently studying to be a Fullstack developer.<br>
 <br>
 In my previous area of work (Architecture) i was in touch with 3d modeling,
