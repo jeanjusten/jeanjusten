@@ -1,5 +1,5 @@
 <!--Title Image-->
-![JJ-GitHUB](https://github.com/user-attachments/assets/81c70cd3-7f2a-40d1-bfa5-8b67d1699227)
+![JJ-GitHUB](https://github.com/user-attachments/assets/aea4a72e-f3dc-4d08-b364-bfe50b1aac5e)
 <br>:computer: **Future Fullstack DEV** <!--Logo Footer-->
 <br>
 
