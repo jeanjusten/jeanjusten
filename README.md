@@ -14,7 +14,7 @@ coding due to a personal side project in Game Maker Studio 2. Since then, i've b
 all those skills to use and working hard in my journey to become a programmer.
 <br><br>
 Check out my repositories to see my study projects and jobs i've done for real clients.<br>
-You can also check my [website](https://jeanjusten.com/) for my full portfolio.
+You can also check my <a href="https://jeanjusten.com" alt="www.jeanjusten.com">Website</a> for my full portfolio.
 
 <!--Skills and Tools-->
 **<h2>:large_blue_diamond: Hard-Skills and Stacks</h2>**
