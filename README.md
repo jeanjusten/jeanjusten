@@ -1,5 +1,5 @@
 <!--Title Image-->
-![JJ-GitHUB](https://github.com/jeanjusten/jeanjusten/assets/156855412/b94a4701-5d61-476f-9642-8de6dd25d262)
+![JJ-GitHUB](https://github.com/user-attachments/assets/81c70cd3-7f2a-40d1-bfa5-8b67d1699227)
 <br>:computer: **Future Fullstack DEV** <!--Logo Footer-->
 <br>
 
@@ -12,11 +12,13 @@ In my previous area of work (Architecture) i was in touch with 3d modeling,
 design and image rendering. It wasn't untill 2023 that i discovered a passion in
 coding due to a personal side project in Game Maker Studio 2. Since then, i've been puting
 all those skills to use and working hard in my journey to become a programmer.
-<br>
+<br><br>
+Check out my repositories to see my study projects and jobs i've done for real clients.<br>
+You can also check my [website](https://jeanjusten.com/) for my full portfolio.
 
 <!--Skills and Tools-->
 **<h2>:large_blue_diamond: Hard-Skills and Stacks</h2>**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,nodejs,sass,less,gulp,grunt,jquery,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,nodejs,sass,less,gulp,jquery,git,github&perline=6)](https://skillicons.dev)
 
 
 **<h2>:large_blue_diamond: Soft-Skills</h2>**
