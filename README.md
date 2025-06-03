@@ -36,8 +36,10 @@ You can also check my <a href="https://jeanjusten.com" alt="www.jeanjusten.com">
 - Adaptability
 - Quick learner
 - Resilient
-- Good at Teamwork
+- Good at teamwork
 - Communicative
+- Constantly studying
+- Like writing Docs
 
 
 <!--Stats-->
