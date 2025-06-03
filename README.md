@@ -5,18 +5,17 @@
 <h2>:large_blue_diamond: About Me</h2>
 
 Hello, World! I'm <strong>Jean</strong>, 33, from Brazil 🇧🇷.<br>
-Im studying to become a Fullstack Developer.<br><br>
+Im studying to become a Fullstack Developer.
 
 In my previous career (Architecture), I worked with 3D modeling, design, image retouching, and video editing.  
 It wasn't until 2023 that I discovered a passion for coding through a personal side project in Game Maker Studio 2.  
-Since then, I've been putting all those skills to use and working hard on my journey to become a developer.<br><br>
+Since then, I've been putting all those skills to use and working hard on my journey to become a developer.
 
-I'm currently doing some freelance jobs in Web Design.<br>
+I'm currently doing some freelance jobs in Web Design.
 Check out my repositories to see my study projects and work I've done for real clients. Or, visit my <a href="https://jeanjusten.com" alt="www.jeanjusten.com">website</a> to view my full portfolio.
 
 <!--Skills and Tools-->
 **<h2>:large_blue_diamond: Hard Skills and Stacks</h2>**
-
 ![html](https://github.com/user-attachments/assets/002205c4-bfe9-4c72-92be-3a34d4af4474)
 ![css](https://github.com/user-attachments/assets/65cdf364-a879-419b-a574-73c838cef5f9)
 ![javascript](https://github.com/user-attachments/assets/4edc5d36-e588-4a1f-93f9-ade2368dab79)
@@ -30,7 +29,6 @@ Check out my repositories to see my study projects and work I've done for real c
 
 <!--Soft Skills-->
 **<h2>:large_blue_diamond: Soft Skills</h2>**
-
 - Adaptability  
 - Fast learner  
 - Resilience  
