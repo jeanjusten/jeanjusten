@@ -38,7 +38,6 @@ You can also check my <a href="https://jeanjusten.com" alt="www.jeanjusten.com">
 - Resilient
 - Good at teamwork
 - Communicative
-- Constantly studying
 - Like writing Docs
 
 
