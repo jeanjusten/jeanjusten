@@ -4,7 +4,7 @@
 <!--About me-->
 <h2>:large_blue_diamond: About Me</h2>
 
-Hello, World! I'm <strong>Jean</strong>, 33, from Brazil 🇧🇷.<br>
+Hello, World! I'm <strong>Jean</strong>, 34, from Brazil 🇧🇷.<br>
 Im studying to become a Fullstack Developer.
 
 In my previous career (Architecture), I worked with 3D modeling, design, image retouching, and video editing.  
